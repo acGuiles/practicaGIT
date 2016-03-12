@@ -17,8 +17,12 @@ public class GitAux {
     public void metodoAlumno2(){
         System.out.println("metodo 2");
     }
-    
+    //mod de master
     public void metodoComunitario(){
         System.out.println("Aqui no escribimos ninguno");
     }
+    public void testGitAux(){
+ // metodo rama testing
+System.out.println("Metodo de testing");
+ }
 }
